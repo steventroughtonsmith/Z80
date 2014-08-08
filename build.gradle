@@ -22,7 +22,7 @@ group= "com.highcaffeinecontent.z80" // http://maven.apache.org/guides/mini/guid
 archivesBaseName = "Z80"
 
 minecraft {
-    version = "1.7.10-10.13.0.1197"
+    version = "1.7.10-10.13.0.1199"
     assetDir = "eclipse/assets"
 }
 
