@@ -1,0 +1,5 @@
+tile.cpuBlock.name=CPU
+tile.cpuTerminalBlock.name=Terminal
+tile.punchCardReaderBlock.name=Punch Card Reader
+
+item.punchCard.name=Punch Card

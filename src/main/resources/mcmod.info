@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Z80",
+  "name": "Z80",
+  "description": "High Caffeine Content Z80 Emulator Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["stroughtonsmith"],
+  "credits": "Mojang, the Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
