@@ -41,3 +41,10 @@ options.txt
 /eclipse/resourcepacks/
 /eclipse/mods/
 eclipse/options.txt
+config/
+logs/
+saves/
+resourcepacks/
+mods/
+options.txt
+
